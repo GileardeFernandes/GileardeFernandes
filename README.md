@@ -14,9 +14,8 @@ Skills:
 *CSS
 *JavaScript
 *NodeJs
-*React
-*React
-*Native
+*Reactjs
+*React Native
 *C#
 *.NET
 *MySql
