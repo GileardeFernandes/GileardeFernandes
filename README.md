@@ -1,5 +1,5 @@
 <h2> Hi, I'm Micael Fernandes!</h2>
-<img align='right' src="https://github.com/GileardeFernandes/GileardeFernandes/blob/master/assets/animation-programming.gif" width="230">
+<img align='right' src="https://github.com/GileardeFernandes/GileardeFernandes/blob/master/assets/animation-programming.gif" width="200">
 
 [![Linkedin: micael-fernandes-659630b3](https://img.shields.io/badge/-micaelfernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micael-fernandes-659630b3/)](https://www.linkedin.com/in/micael-fernandes-659630b3/)
 
@@ -10,5 +10,17 @@ Software Developer, increasingly loving the best web and mobile development tech
 
 ```
 Skills:
-*HTML, CSS, JavaScript, NodeJs, React, React Native, C#, .NET, MySql, Oracle, Docker, git.
+*HTML
+*CSS
+*JavaScript
+*NodeJs
+*React
+*React
+*Native
+*C#
+*.NET
+*MySql
+*Oracle,
+Docker,
+git.
 ```
