@@ -6,20 +6,10 @@
 
 
 ### A little more about me...  
-Software Developer, increasingly loving the best web and mobile development technologies.
+Sou um desenvolvedor de software apaixonado por criar aplicações robustas e escaláveis. Tenho sólida experiência em Java e Spring Boot, desenvolvendo microserviços para assegurar que os sistemas sejam tanto eficientes quanto adaptáveis. Além disso, tenho habilidades em diversas tecnologias, como SQL, Docker, Kubernetes, RabbitMQ e C#.
+
+Ao longo da minha carreira, trabalhei com uma variedade de bancos de dados, incluindo PostgreSQL, Oracle, SQL Server e Elasticsearch. Adoto metodologias ágeis e utilizo ferramentas de versionamento como Git, GitLab, SVN e TFS para facilitar a colaboração e garantir entregas de qualidade. Sou certificado em várias tecnologias, como Spring Boot, ASP.NET Core e Java. Para mim, trabalhar em equipe é extremamente gratificante; adoro compartilhar conhecimento e alcançar objetivos com o apoio de um time dedicado.
 
 ```
-Skills:
-*HTML
-*CSS
-*JavaScript
-*NodeJs
-*Reactjs
-*React Native
-*C#
-*.NET
-*MySql
-*Oracle,
-Docker,
-git.
+| Java | Spring Boot | Docker & Kubernetes | Rabbitmq | Git | SQL | C#
 ```
